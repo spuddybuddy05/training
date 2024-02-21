@@ -28,6 +28,11 @@ For general usage purposes, here are some of the rules to learn:
  
   
 # JSON Requests
+### What are JSON Requests
+A JSON requests is a request made by a client to a server where data is being sent or received and is formatted as JSON (JavaScript Object Notatoin). It is a way for clients and servers to communciate with each other and it is commonly used in web development
+
+### Creating a Web Scraper
+When creating a Web Scraper in Python, it is necessary to use the lines "import requests" (which allows the program to make HTTP requests in Python) and "from bs4 import BeautifulSoup" (which imports "BeautifulSoup" that is used for parsing HTML documents). Make sure to install both if needed to run the program.
 
 # Input Validation
 
