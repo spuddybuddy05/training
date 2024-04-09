@@ -41,12 +41,12 @@ Input Validation is used in programming to ensure that correct data is entered i
 ### Creating a Program to Validate User Input
 Checking the length of a string is commonly used in websites where passwords are necessary. In general, the longer a password, the more secure it is. To test if an input is above a certain number of characters you can use the len() function that checks the length of a string and returns how many characters there are. Using if else statements it is simple to check whether or not a string has enough characters.
 
-# Postman calls
+# Postman Calls
 ### What is a postman call?
+Postman is an API platform for bulding and using APIs. A postman call allows a user to send API requests 
 
-### Creating an API
-Begin by using your terminal and enter "pip install flask" which will
-
+### Using Postman
+Open Postman and navigate to the plus tab. From there, you will be able to choose the default method "GET" to grab information from your API using the link your program generates along with /get(yourfunction). For example, "http://127.0.0.1:5000/getBookmarks" returned "300 Bookmarks"
 
 # Object Orientation
 
