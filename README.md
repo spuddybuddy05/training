@@ -49,6 +49,11 @@ Postman is an API platform for bulding and using APIs. A postman call allows a u
 Open Postman and navigate to the plus tab. From there, you will be able to choose the default method "GET" to grab information from your API using the link your program generates along with /get(yourfunction). For example, "http://127.0.0.1:5000/getBookmarks" returned "300 Bookmarks"
 
 # Object Orientation
+### Definitions
+Object Oriented Programming (OOP) is a fundamental programming idea that involes classes and objects containing code that includes important ideas such as abstraction, polymorphism, amd encapsulation. The code is a set of data contained in fields instead of using a traditional logic based system.
+
+### Example
+One real life application and example of classes and objects is a menu item class. The class in the menu item case will have the characteristics and functions of a menu. In a simple example of object oriented programming, the menu item class will have two characterisitcs which is the name of the food and the price of the food. Then, instead of a user just creating a new item every time they want to add a food to a menu, they can create a menu item object that already has all the charactersitics of a class which is much simpler and saves time. The code can also be compiled more easily.
 
 # YAML Files
 
