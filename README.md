@@ -56,6 +56,11 @@ Object Oriented Programming (OOP) is a fundamental programming idea that involes
 One real life application and example of classes and objects is a menu item class. The class in the menu item case will have the characteristics and functions of a menu. In a simple example of object oriented programming, the menu item class will have two characterisitcs which is the name of the food and the price of the food. Then, instead of a user just creating a new item every time they want to add a food to a menu, they can create a menu item object that already has all the charactersitics of a class which is much simpler and saves time. The code can also be compiled more easily.
 
 # YAML Files
+### What is YAML
+YAML (YAML Ain't Markup Language) is a human-readable data serialization language that is often used for writing configuration files. For example it can be used with docker for creating a docker-compose.yml file
+
+### What is Docker?
+Docker is a software with many uses. Focusing on it's similarities between virtual machines, it can be used for many of the same things. However, instead of running, for example, a linux machine in the cloud or on your machine using the machines own resources, you can run an ubuntu machine using your machine's resources in an isolated container.
 
 # Hashing Algorithms
 
