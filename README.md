@@ -63,5 +63,6 @@ YAML (YAML Ain't Markup Language) is a human-readable data serialization languag
 Docker is a software with many uses. Focusing on it's similarities between virtual machines, it can be used for many of the same things. However, instead of running, for example, a linux machine in the cloud or on your machine using the machines own resources, you can run an ubuntu machine using your machine's resources in an isolated container.
 
 # Hashing Algorithms
+Hashing algorithms are mathematical functions that are one way only to make data unreadable. When something is hashed, the length of it is fixed making it impossible to work backwards. If one small change is made to some text (removing a letter or adding a letter) it does not just change one thing about the hash value, but completely changes the entire output of the hash function.
 
 # DevOps Practices
