@@ -66,3 +66,4 @@ Docker is a software with many uses. Focusing on it's similarities between virtu
 Hashing algorithms are mathematical functions that are one way only to make data unreadable. When something is hashed, the length of it is fixed making it impossible to work backwards. If one small change is made to some text (removing a letter or adding a letter) it does not just change one thing about the hash value, but completely changes the entire output of the hash function.
 
 # DevOps Practices
+DevOps (Development Operations) is a set of practices that combines software development and IT operations. The goal of DevOps is to shorten the software development lifecycle and provide continuous delivery with high software quality. It emphasizes collaboration between developers and IT operations to improve and automate the processes of software development, testing, and deployment.
